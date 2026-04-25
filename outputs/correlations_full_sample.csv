@@ -1,0 +1,6 @@
+metric,value
+pearson_r,0.6898
+pearson_p,3.00e-08
+spearman_r,0.6635
+spearman_p,1.51e-07
+n,50
